@@ -65,7 +65,7 @@
         </div>
         <div class="plan">
             <h2>Family Plan</h2>
-            <p>Price: 500 pesos</p>
+            <p>Price: 400 pesos</p>
             <p>Features: 5 screens at a time</p>
-            <button class="subscribe-btn" onclick="window.location.href='subscribe.html?plan=duo'">Subscribe</button>
+            <button class="subscribe-btn" onclick="window.location.href='subscribe.html?plan=family'">Subscribe</button>
         </div>
